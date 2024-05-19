@@ -1,7 +1,7 @@
 # CalculatorPy
 
 It's a simple calculator created in python to pratice units tests.<br>
-This calculator was created how challenge requested by mentor Nathan araujo.<br>
+This calculator was created as a challenge requested by mentor [Nathan Araujo](https://github.com/araujosnathan).
 
 
 ## Installation Dependencies
